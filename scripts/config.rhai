@@ -1,8 +1,8 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["RAG", "LLM", "VLM", "MLLM"];
-let titles_method = ["Parametric Retrieval Augmented Generation", "Retrieval Augmented Generation", "Internal Knowledge", "Retrieval-augmented", "Large Language Model’s Weights", "Knowledge Expansion","Knowledge Update","Knowledge","Knowledge Conflicts","Model Merg","Multimodal Retrieval-Augmented Generation", “Parametr”];
+let titles_method = ["Parametric Retrieval Augmented Generation", "Retrieval Augmented Generation", "Internal Knowledge", "Retrieval-augmented", "Large Language Model’s Weights", "Knowledge Expansion","Knowledge Update","Knowledge","Knowledge Conflicts","Model Merg","Multimodal Retrieval-Augmented Generation", "Parametr"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yuqiao Tan", "Weihang Su", "Huanxuan Liao", "Xin Cheng", "Yanpeng Sun", "Han Wang", "Feipeng Ma", "Ningyu Zhang", "Mingyang Wang", "Dan Shi", "Tinghui Zhu", "Weijia Shi", "LANG MEI", "Jiajie Jin", "Zhicheng Dou", "Minghao Tang", "Haofen Wang"];
+let authors_array = ["Yuqiao Tan", "Weihang Su", "Huanxuan Liao", "Xin Cheng", "Yanpeng Sun", "Han Wang", "Feipeng Ma", "Ningyu Zhang", "Mingyang Wang", "Dan Shi", "Tinghui Zhu", "Weijia Shi", "Lang Mei", "Jiajie Jin", "Zhicheng Dou", "Minghao Tang", "Haofen Wang"];
 
 let conferences = [
     // AI
